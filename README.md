@@ -3,7 +3,7 @@ This is a useless box that only stays when a secret button is held.
 I'm making this because I thought it would be a great challange.
 
 
-Stasis Page PDF (cuz you would need an account to view the page): https://github.com/Cubic-Vyper/PCB-Frame/blob/a8e6bf696622cb0a274b5ef94e0a04bb83f11496/Stasis_ProjectPage-PCB%20Frame.pdf
+Stasis Page PDF (cuz you would need an account to view the page): https://github.com/Cubic-Vyper/Useless-Box/blob/a6bbfdbe64c2ba0163d5f215921f39e9bf6420dd/Stasis_ProjectPage-Useless%20Box.pdf
 
 --------------
 **Bill Of Materials**
@@ -36,6 +36,52 @@ Stasis Page PDF (cuz you would need an account to view the page): https://github
 **assembly**
 
 
-to assemble
+first screw or glue the parts to the base
 
 
+<img width="1003" height="495" alt="image" src="https://github.com/user-attachments/assets/5d003c0e-a63b-40b6-9d6d-218dda3a1371" />
+
+
+screw the arm on
+
+<img width="814" height="608" alt="image" src="https://github.com/user-attachments/assets/ed593fc2-90ad-4183-a170-e92845cc0dba" />
+
+
+
+now screw the walls on
+
+
+<img width="573" height="567" alt="image" src="https://github.com/user-attachments/assets/33189ed3-65bf-4f66-8c08-0f852a3a0cfb" />
+
+
+
+and glue the touch sensor here (or anywhere you want)
+
+
+
+<img width="850" height="492" alt="image" src="https://github.com/user-attachments/assets/f390dcc2-eb16-4c68-a23d-b537288589c4" />
+
+
+add the hinged door with some filiment, insert fillement into the hinge
+
+
+<img width="897" height="472" alt="image" src="https://github.com/user-attachments/assets/20b35766-410d-4d26-b7dd-522887cdd26b" />
+
+
+
+glue the lid on
+
+
+<img width="783" height="503" alt="image" src="https://github.com/user-attachments/assets/8156229c-6e48-4aa7-9be5-65af445cdcf6" />
+
+
+
+and add the toggle switch ussing the nut that comes with it
+
+
+<img width="737" height="511" alt="image" src="https://github.com/user-attachments/assets/cb008adf-d9aa-4ec2-b240-4100cc55cda6" />
+
+
+
+
+now it's done!
